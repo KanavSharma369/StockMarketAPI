@@ -1,2 +1,2 @@
 # StockMarketAPI
-This repo contains the Stock Market API Project
+This project tells the details of a particular stock
